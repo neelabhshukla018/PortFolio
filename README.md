@@ -1,7 +1,9 @@
 <!-- Animated Portfolio README -->
 
 <h1 align="center">👋 Hi, I'm Neelabh Shukla</h1>
-<h3 align="center">Full Stack Developer | DSA Enthusiast | Junior Frontend Developer at GDG</h3>
+<h3 align="center">
+  Full Stack Developer | DSA Enthusiast | Junior Frontend Developer at GDG
+</h3>
 
 <p align="center">
   <a href="https://neelabhshuklaportfolio.netlify.app/" target="_blank">🌐 Live Portfolio</a> | 
@@ -12,47 +14,71 @@
 ---
 
 ## 🚀 About Me
-I am a passionate Full Stack Developer with experience in building responsive websites, integrating APIs, and creating dynamic web applications.  
-I love working on projects that combine **frontend, backend, and problem-solving skills**.  
+Hi! I'm Neelabh Shukla, a passionate Full Stack Developer and DSA enthusiast.  
+I love building **responsive websites**, **dynamic applications**, and solving **algorithmic challenges**.  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F7AB0A&center=true&width=600&lines=Full+Stack+Developer;Frontend+%7C+Backend+%7C+DSA;Creating+Dynamic+Web+Apps" alt="Typing SVG"/>
+</p>
 
 ---
 
 ## 💻 Skills
-- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React.js, AngularJS, Bootstrap  
-- **Backend:** API integration, Razorpay, Dynamic Web Apps  
-- **Programming & DSA:** Java, C++, Data Structures & Algorithms, Problem-solving  
-- **Tools & Platforms:** VS Code, GitHub, Figma, Git  
+
+| Frontend | Backend | Programming & DSA | Tools & Platforms |
+|----------|---------|-----------------|-----------------|
+| HTML, CSS, JavaScript | API Integration, Razorpay | Java, C++ | VS Code, Git, Figma |
+| Tailwind CSS, React.js | Dynamic Web Apps | Data Structures & Algorithms | GitHub |
+| AngularJS, Bootstrap | | Problem Solving | |
 
 ---
 
 ## 🛠 Projects
 
 ### TRAVENTURE
-- Travel booking platform with interactive UI and dynamic features.  
-- [Live Demo](https://your-traventure-link) | [Code](https://github.com/neelabhshukla018/TRAVENTURE)
+- Travel booking platform with interactive UI & dynamic features.  
+- [Live Demo]([https://your-traventure-link](https://traventure-toursandtravel.netlify.app/)) | [Code](https://github.com/neelabhshukla018/TRAVENTURE)
 
-### Yumcart
-- E-commerce platform with dynamic cart and PDF billing functionality.  
-- [Live Demo](https://your-yumcart-link) | [Code](https://github.com/neelabhshukla018/Yumcart)
+### LearnEd
+- E-commerce platform with dynamic cart & PDF billing.  
 
-### Soul$cribbles
-- Personal blogging platform with animations and light/dark mode toggle.  
-- [Live Demo](https://your-soulcribbles-link) | [Code](https://github.com/neelabhshukla018/Soul$cribbles)
 
-### Portfolio Website
-- My personal portfolio showcasing projects, skills, and contact form.  
-- [Live Demo](https://neelabhshuklaportfolio.netlify.app/) | [Code](https://github.com/neelabhshukla018/Portfolio)
+### EarthWear
+- Personal blogging platform with animations & dark/light mode.  
+
+
+### CreZio
+- Personal portfolio showcasing projects, skills, and contact form.  
 
 ---
 
 ## 📸 Screenshots
 <p align="center">
-  <a href="https://github.com/neelabhshukla018/Portfolio/screenshots" target="_blank">
-    <img src="https://i.ibb.co/album-placeholder.png" alt="Portfolio Screenshot" width="600"/>
+  <a href="screenshots/s1.png" target="_blank">
+    <img src="screenshots/s1.png" alt="Screenshot 1" width="200"/>
+  </a>
+  <a href="screenshots/s2.png" target="_blank">
+    <img src="screenshots/s2.png" alt="Screenshot 2" width="200"/>
+  </a>
+  <a href="screenshots/s3.png" target="_blank">
+    <img src="screenshots/s3.png" alt="Screenshot 3" width="200"/>
+  </a>
+  <a href="screenshots/s4.png" target="_blank">
+    <img src="screenshots/s4.png" alt="Screenshot 4" width="200"/>
+  </a>
+  <a href="screenshots/s5.png" target="_blank">
+    <img src="screenshots/s5.png" alt="Screenshot 5" width="200"/>
   </a>
 </p>
 
-> Click the image to view detailed screenshots of the website in action.
+> Click the images to view detailed screenshots of my websites.
+
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neelabhshukla018&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhshukla018&hide=html&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
@@ -64,11 +90,12 @@ I enjoy combining **creative design, smooth animations, and functional coding** 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/neelabh-shukla-45b88a2a5/)  
 - [GitHub](https://github.com/neelabhshukla018)  
-- [Instagram](https://www.instagram.com/arjun_dream_0007/)  
+- [Instagram]([https://www.instagram.com/arjun_dream_0007/](https://www.instagram.com/arjun_dream_1845/))  
 
 ---
 
 <p align="center">
   Made with ❤️ by Neelabh Shukla
 </p>
+
 
