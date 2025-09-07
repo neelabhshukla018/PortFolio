@@ -55,32 +55,26 @@ I love building **responsive websites**, **dynamic applications**, and solving *
 ## 📸 Screenshots
 <p align="center">
   <a href="screenshots/s1.png" target="_blank">
-    <img src="screenshots/s1.png" alt="Screenshot 1" width="200"/>
+    <img src="screenshots/s1.jpg" alt="Screenshot 1" width="200"/>
   </a>
   <a href="screenshots/s2.png" target="_blank">
-    <img src="screenshots/s2.png" alt="Screenshot 2" width="200"/>
+    <img src="screenshots/s2.jpg" alt="Screenshot 2" width="200"/>
   </a>
   <a href="screenshots/s3.png" target="_blank">
-    <img src="screenshots/s3.png" alt="Screenshot 3" width="200"/>
+    <img src="screenshots/s3.jpg" alt="Screenshot 3" width="200"/>
   </a>
   <a href="screenshots/s4.png" target="_blank">
-    <img src="screenshots/s4.png" alt="Screenshot 4" width="200"/>
+    <img src="screenshots/s4.jpg" alt="Screenshot 4" width="200"/>
   </a>
   <a href="screenshots/s5.png" target="_blank">
-    <img src="screenshots/s5.png" alt="Screenshot 5" width="200"/>
+    <img src="screenshots/s5.jpg" alt="Screenshot 5" width="200"/>
   </a>
 </p>
 
 > Click the images to view detailed screenshots of my websites.
 
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neelabhshukla018&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhshukla018&hide=html&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
----
 
 ## ✨ Fun Fact
 I enjoy combining **creative design, smooth animations, and functional coding** to build professional and engaging web experiences.  
@@ -90,7 +84,7 @@ I enjoy combining **creative design, smooth animations, and functional coding** 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/neelabh-shukla-45b88a2a5/)  
 - [GitHub](https://github.com/neelabhshukla018)  
-- [Instagram]([https://www.instagram.com/arjun_dream_0007/](https://www.instagram.com/arjun_dream_1845/))  
+- [Instagram]((https://www.instagram.com/arjun_dream_1845/))  
 
 ---
 
