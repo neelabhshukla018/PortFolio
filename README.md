@@ -52,7 +52,7 @@ I love building **responsive websites**, **dynamic applications**, and solving *
 
 ---
 
-## 🌍 Some Glimpses of Traventure
+## 🌍 Some Glimpses of My PortFolio Please Have A Watch
 
 <p align="center"> 
   <img src="https://github.com/neelabhshukla018/PortFolio/blob/main/s1.png?raw=true" width="400" /> 
@@ -65,7 +65,6 @@ I love building **responsive websites**, **dynamic applications**, and solving *
 </p>
 
 
-> Click the images to view detailed screenshots of my websites.
 
 
 
